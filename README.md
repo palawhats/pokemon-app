@@ -11,6 +11,7 @@
 
 vercel link:
 https://pokemon-app-three-phi.vercel.app/
+
 main page
 <img width="1902" height="922" alt="image" src="https://github.com/user-attachments/assets/d01fec2f-126e-484a-97c8-61ac9ba43bba" />
 
