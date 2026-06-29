@@ -9,6 +9,8 @@
 - UI Library: [Material UI (MUI v6)](https://mui.com/)
 - Styling: CSS Modules / MUI `sx` Prop
 
+นายปลวัชร สุทธมา 673450473-2
+
 vercel link:
 https://pokemon-app-three-phi.vercel.app/
 
